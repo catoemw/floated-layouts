@@ -1,0 +1,26 @@
+header,
+footer {
+	height: 6em;
+	background-color: #ff000c;
+}
+
+main {
+	height: 40em;
+	margin: 1em auto;
+	overflow: auto;
+}
+
+.column {
+	height: 100%;
+	width: 33.33%;
+	background-color: #0fbdef;
+	float: left;
+}
+
+#green {
+	background-color: #18b858;
+}
+
+#yellow {
+	background-color: #fbfb4e;
+}

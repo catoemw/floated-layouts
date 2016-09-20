@@ -1,0 +1,56 @@
+header,
+footer {
+	height: 6em;
+	background-color: #ff000c;
+}
+
+main {
+	height: 40em;
+	margin: 1em auto;
+	overflow: auto;
+}
+
+.left {
+	height: 100%;
+	width: 66.66%;
+	background-color: #0fbdef;
+	float: left;
+}
+
+.right {
+	height: 100%;
+	width: 33.33%;
+	background-color: #fbfb4e;
+	float: left;
+}
+
+.bottom {
+	height: 17em;
+	width: 90%;
+	background-color: #f796bf;
+	margin: 2em 5%;
+	float: left;
+	clear: both;
+}
+
+.top {
+	height: 17em;
+	width: 90%;
+	margin: 2em 5% 0em 5%;
+	float: left;
+}
+
+.column {
+	height: 100%;
+	width: 33.33%;
+	background-color: #8b7eb8;
+	float: left;
+}
+
+#orange {
+	background-color: #f3632e;
+}
+
+#green {
+	background-color: #18b858;
+}
